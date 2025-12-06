@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Data and models
+data/
+models/saved_model.h5
+models/checkpoints/
+outputs/
+.logs/
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
